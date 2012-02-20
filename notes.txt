@@ -1,3 +1,5 @@
+ajuadando @jweslley
+
 no pings! always send .see of ones near a writer and .to of id near you (who they would have to .see back from)
 anytime any packet comes in check to see if we want to bucket the sender (if they're close to us), if so open a line to them
 always just ignore telexes if to throttle back
